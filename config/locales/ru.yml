@@ -1,19 +1,19 @@
 # $Id$
-# English strings go here
+# Russian strings go here
 ru:
   label_hudson: Hudson
   label_hudson_plural: Hudson
-  label_build: Build
-  label_latest_build: Latest Build
-  label_job_list: Job List
-  label_settings: Settings
+  label_build: Сборка
+  label_latest_build: Последняя сборка
+  label_job_list: Список задач
+  label_settings: Настройка
   label_url: URL
-  label_jobs: Jobs
-  label_build_history: Build History
-  label_update_jobs: Update Jobs
-  label_build_now: Build Now
-  label_show_build_history: Show Build History
-  label_show_compact: Show Compact
+  label_jobs: Задачи
+  label_build_history: История сборок
+  label_update_jobs: Обновить задачи
+  label_build_now: Собрать сейчас
+  label_show_build_history: Показать историю сборок
+  label_show_compact: Компактный вид
   label_health_report_build_stability: HealthReport:BuildStability
   label_health_report_test_result: HealthReport:TestResult
   label_database: DataBase
